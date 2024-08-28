@@ -1,2 +1,2 @@
 # text-project
-creating new repo to teach github
+creating new repo to teach githuprint("hellow world")
